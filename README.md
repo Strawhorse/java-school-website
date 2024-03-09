@@ -8,6 +8,10 @@ https://stackoverflow.com/questions/46265775/spring-boot-project-shows-the-login
 https://stackoverflow.com/questions/51221777/failed-to-configure-a-datasource-url-attribute-is-not-specified-and-no-embedd
 https://docs.spring.io/spring-boot/docs/current/reference/html/index.html
 https://stackoverflow.com/questions/45651119/spring-boot-images-uploading-and-serving
+https://medium.com/@iamgnanadeep/getting-started-with-java-spring-boot-backend-with-mysql-database-for-web-app-development-5f0c7ebfc296
+https://www.milanwittpohl.com/projects/tutorials/full-stack-web-app/the-backend-with-java-and-spring
+https://masteringbackend.com/posts/spring-boot#building-a-web-app-with-spring-boot
+
 
 
 Need to do:
