@@ -13,6 +13,8 @@ https://www.milanwittpohl.com/projects/tutorials/full-stack-web-app/the-backend-
 https://masteringbackend.com/posts/spring-boot#building-a-web-app-with-spring-boot
 https://spring.io/guides/gs/serving-web-content
 
+Start here: https://www.jetbrains.com/help/idea/your-first-spring-application.html#run-spring-application
+
 
 Need to do:
 - Create backend SQL database to begin to take entries; maybe Tomcat or XAMPP

@@ -16,9 +16,8 @@ public class JavaSchoolWebsiteApplication {
 		SpringApplication.run(JavaSchoolWebsiteApplication.class, args);
 	}
 
-
 	@GetMapping("/hello")
-	public String sayHello(@RequestParam(value = "myName", defaultValue = "John") String name){
+	public String sayHello(@RequestParam(value = "myName", defaultValue = "Goran") String name){
 		return String.format("Hello %s!",name);
 	}
 
