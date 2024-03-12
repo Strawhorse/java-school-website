@@ -11,7 +11,7 @@ https://stackoverflow.com/questions/45651119/spring-boot-images-uploading-and-se
 https://medium.com/@iamgnanadeep/getting-started-with-java-spring-boot-backend-with-mysql-database-for-web-app-development-5f0c7ebfc296
 https://www.milanwittpohl.com/projects/tutorials/full-stack-web-app/the-backend-with-java-and-spring
 https://masteringbackend.com/posts/spring-boot#building-a-web-app-with-spring-boot
-
+https://spring.io/guides/gs/serving-web-content
 
 
 Need to do:
@@ -21,7 +21,15 @@ Need to do:
 - Create login functionality ...
 
 
+Hi Goran,
+- Trying to build a website from scratch (no frontend frameworks) and I want to create all backend
+- Functionality through Spring MVC
+- I need Java to read HTML form data and, where necessary, read and write from a backend SQL database (which I have to create, but it'll be easy though), and do secure logins
+- How much of this do you think you can input into?
 
+*** You can fork the project to yourself and make your commits with notes and we can work on it that way, if you like?
+
+I have a number of links above with great information on what to do; I have the basic front website pages built, so we only really need to work on a back end
 
 
 
