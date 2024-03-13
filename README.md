@@ -15,6 +15,9 @@ Help from:
 
 Start here: https://www.jetbrains.com/help/idea/your-first-spring-application.html#run-spring-application
 
+And here: https://teamcubate.com/blogs/how-to-develop-a-website-using-java
+
+
 
 Need to do:
 - Create backend SQL database to begin to take entries; maybe Tomcat or XAMPP
