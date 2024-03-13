@@ -22,4 +22,11 @@ public class JavaSchoolWebsiteApplication {
 	}
 
 
+//	Begin mapping web pages here to serve content
+	@GetMapping("/home")
+	public showIndex() {
+		return index.html;
+	}
+
+
 }
