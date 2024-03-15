@@ -1,25 +1,33 @@
 package com.jbr.javaschoolwebsite;
 
+import net.sf.jsqlparser.Model;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
+import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 
+
+
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class })
 @RestController
-public abstract class JavaSchoolWebsiteApplication {
+public class JavaSchoolWebsiteApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavaSchoolWebsiteApplication.class, args);
 	}
 
 	@GetMapping("/hello")
-	public String sayHello(@RequestParam(value = "myName", defaultValue = " there...") String name){
+	public String sayHello(@RequestParam(value = "name", required = false, defaultValue = " there... John") String name, Model model){
+
 		return String.format("Hello %s!",name);
 	}
+
+
+//	above, The value of the name parameter is added to a Model object, ultimately making it accessible to the view template.
 
 
 //	test endpoint
