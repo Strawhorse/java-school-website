@@ -18,6 +18,7 @@ Start here: https://www.jetbrains.com/help/idea/your-first-spring-application.ht
 And here: https://teamcubate.com/blogs/how-to-develop-a-website-using-java
 
 Idea to use JSON web tokens for authentication: https://geeksforgeeks.org/json-web-token-jwt/
+And here: https://www.baeldung.com/java-json-web-tokens-jjwt
 
 
 
