@@ -25,6 +25,8 @@ And here: https://www.javaguides.net/2023/11/spring-boot-rest-api-best-practices
 
 And here: https://spring.io/guides/gs/spring-boot
 
+LOGIN INFORMATION WITH SPRING BOOT: https://dzone.com/articles/creating-a-web-application-with-spring-boot
+
 
 Need to do:
 - Create backend SQL database to begin to take entries; maybe Tomcat or XAMPP
