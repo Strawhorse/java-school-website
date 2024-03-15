@@ -26,10 +26,6 @@ public class JavaSchoolWebsiteApplication {
 		return String.format("Hello %s!",name);
 	}
 
-
-//	above, The value of the name parameter is added to a Model object, ultimately making it accessible to the view template.
-
-
 //	test endpoint
 	@GetMapping("/test")
 	public String test() {
@@ -37,11 +33,9 @@ public class JavaSchoolWebsiteApplication {
 	}
 
 
-
-
 //	Spring will automatically serve index.html from main/resrouces/static as the homepage
 
-
-
-
 }
+
+
+
