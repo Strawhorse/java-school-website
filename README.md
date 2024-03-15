@@ -18,7 +18,10 @@ Start here: https://www.jetbrains.com/help/idea/your-first-spring-application.ht
 And here: https://teamcubate.com/blogs/how-to-develop-a-website-using-java
 
 Idea to use JSON web tokens for authentication: https://geeksforgeeks.org/json-web-token-jwt/
+
 And here: https://www.baeldung.com/java-json-web-tokens-jjwt
+
+And here: https://www.javaguides.net/2023/11/spring-boot-rest-api-best-practices.html?utm_content=cmp-true
 
 
 
