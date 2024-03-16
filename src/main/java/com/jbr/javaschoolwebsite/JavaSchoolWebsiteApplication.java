@@ -33,7 +33,7 @@ public class JavaSchoolWebsiteApplication {
 	}
 
 
-//	Spring will automatically serve index.html from main/resrouces/static as the homepage
+//	Spring will automatically serve index.html from main/resources/static as the homepage
 
 }
 
